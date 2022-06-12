@@ -1,10 +1,10 @@
 package demo;
 
-public class B extends A {
+public class B extends A{
 	
 	public static void main(String[] args) {
-	    B a=new B();
-		a.day();
+	   B a=new B();
+	   a.day();
 	}
 
 }
